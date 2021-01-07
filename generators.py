@@ -129,9 +129,9 @@ def create_rst(destination_filename, with_ints=False, with_answers=False):
 
 
 if __name__ == '__main__':
-#     create_jupyter_notebook()
-#     create_jupyter_notebook_random_question()
-#     create_markdown()
-#     create_markdown(with_hints=False, with_solutions=True)
-#     create_markdown(with_hints=True, with_solutions=False)
-#     create_markdown(with_hints=True, with_solutions=True)
+    create_jupyter_notebook()
+    create_jupyter_notebook_random_question()
+    create_markdown()
+    create_markdown(with_hints=False, with_solutions=True)
+    create_markdown(with_hints=True, with_solutions=False)
+    create_markdown(with_hints=True, with_solutions=True)
